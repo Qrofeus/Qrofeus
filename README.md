@@ -2,7 +2,6 @@
 <!-- [--Portfolio placeholder--]() -->
 
 ## About Me
-<hr/>
 
 I completed my Bachelor's in Computer Engineering from AISSMS's Institute of Information Technology, Pune, India.\
 I am currently looking for programmer internships before I start my master's program.
@@ -12,13 +11,11 @@ I am currently working on [Sudoku Generator Solver](https://github.com/Qrofeus/S
 2023 Goals: Contribute to open source projects, and complete planned personal projects
 
 ## Connect With Me
-<hr/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qrofeus/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninad.deshpande46@gmail.com)
 
 ## Top Languages
-<hr/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrofeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
