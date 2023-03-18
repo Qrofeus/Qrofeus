@@ -1,6 +1,4 @@
-# Ninad Deshpande
-
-[Portfolio Website](https://qrofeus.github.io/Portfolio_Website/)
+# [Ninad Deshpande](https://qrofeus.github.io/Portfolio_Website/)
 
 ## About Me
 
