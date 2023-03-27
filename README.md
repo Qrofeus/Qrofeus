@@ -1,13 +1,13 @@
 # [Ninad Deshpande](https://qrofeus.github.io/portfolio-website/)
 
-## About Me
+![Banner Image](/assets/img/NinadDeshpande_banner.png)
+
+## **About Me**
 
 I completed my Bachelor's in Computer Engineering from AISSMS's Institute of Information Technology, Pune, India.\
-I am currently looking for programmer internships before I start my master's program.
+I am currently working on some personal projects before my master's program.
 
-I am currently working on [Sudoku Generator Solver](https://github.com/Qrofeus/Soduko_Generator_Solver) project.
-
-2023 Goals: Contribute to open source projects, and complete planned personal projects
+I am working on [sorting-algorithms](https://github.com/Qrofeus/sorting-algorithms) repo and an online course [100 Days of Python](https://github.com/Qrofeus/Python_100) at the moment.
 
 ## Connect With Me
 
