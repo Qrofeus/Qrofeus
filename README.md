@@ -2,7 +2,7 @@
 
 # Ninad Deshpande
 
-[Open Website](https://qrofeus.github.io/portfolio-website/)
+<!-- [Open Website](https://qrofeus.github.io/portfolio-website/) -->
 I completed my Bachelor's in Computer Engineering from AISSMS's Institute of Information Technology, Pune, India.\
 I am currently working on some personal projects before my master's program.
 
