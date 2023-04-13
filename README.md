@@ -1,8 +1,6 @@
 ![Banner Image](/assets/img/NinadDeshpande_banner.png)
 
-#
-
-<!-- [Open Website](https://qrofeus.github.io/portfolio-website/) -->
+<!-- [Open Portfolio](https://qrofeus.github.io/portfolio-website/)\ -->
 I completed my Bachelor's in Computer Engineering from AISSMS's Institute of Information Technology, Pune, India.\
 I am currently working on some personal projects before my master's program.
 
@@ -28,5 +26,4 @@ I am working on [sorting-algorithms](https://github.com/Qrofeus/sorting-algorith
 2. [100 Days of Python](https://github.com/Qrofeus/Python_100)
 3. [Sudoku generator-solver](https://github.com/Qrofeus/Soduko_Generator_Solver)
 
-Acknowledgement:
-Get your "Top Languages" card [here](https://github.com/anuraghazra/github-readme-stats)
+<sub>[Top Languages Card](https://github.com/anuraghazra/github-readme-stats)</sub>
