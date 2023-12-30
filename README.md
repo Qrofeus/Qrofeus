@@ -3,7 +3,7 @@
 I completed my Bachelor's in Computer Engineering from AISSMS's Institute of Information Technology, Pune, India.\
 At present working on some personal projects before starting my master's program.
 
-I am currently working on [sorting-algorithms](https://github.com/Qrofeus/sorting-algorithms) repository.
+- I am currently working on the [Wrestling Tournament simulation](https://github.com/Qrofeus/wrestling_tournament_sim) project.
 
 ## Connect With Me
 
