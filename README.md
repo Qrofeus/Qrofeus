@@ -1,14 +1,15 @@
 ![Banner Image](/assets/img/NinadDeshpande_banner.png)
+My website: [qrofeus.dev](https://qrofeus.dev)
 
-I completed my Bachelor's in Computer Engineering from AISSMS's Institute of Information Technology, Pune, India.\
-At present working on some personal projects before starting my master's program.
+I am a graduate student at Purdue University pursuing my MS in Computer & Information Science.\
+Working on some personal projects for now, and looking for internships opportunities.
 
-- I am currently working on the [Wrestling Tournament simulation](https://github.com/Qrofeus/wrestling_tournament_sim) project.
+- I am currently working on the [Online Trivia Quiz](https://github.com/Qrofeus/online-quiz) project. You can play the trivia on [quiz.qrofeus.dev](https://quiz.qrofeus.dev)
 
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qrofeus/) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninad.deshpande46@gmail.com) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@qrofeus.dev) &nbsp;
 
 ## Most used Languages and Tools
 
