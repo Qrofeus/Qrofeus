@@ -28,7 +28,5 @@ Working on some personal projects for now, and looking for internships opportuni
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qrofeus/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@qrofeus.dev) &nbsp;
-[![Website](https://img.shields.io/website)](https://qrofeus.dev)
-
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qrofeus&layout=compact) --->
