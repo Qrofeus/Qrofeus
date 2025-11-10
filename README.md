@@ -19,13 +19,16 @@ Working on some personal projects for now, and looking for internships opportuni
 
 ## Highlight Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=enigma-machine&show_owner=true)](https://github.com/Qrofeus/Enigma-Machine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=online-quiz&show_owner=true)](https://github.com/Qrofeus/online-quiz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=sorting-algorithms&show_owner=true)](https://github.com/Qrofeus/sorting-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=path-finding-algorithms&show_owner=true)](https://github.com/Qrofeus/path-finding-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=near-zero&show_owner=true)](https://github.com/Qrofeus/near-zero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=enigma-machine&show_owner=true)](https://github.com/Qrofeus/Enigma-Machine)
 
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qrofeus/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@qrofeus.dev) &nbsp;
+[![Website](https://img.shields.io/website)](https://qrofeus.dev)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qrofeus&layout=compact) --->
