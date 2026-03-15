@@ -21,7 +21,6 @@ Working on some personal projects for now, and looking for internships opportuni
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=sorting-algorithms&show_owner=true)](https://github.com/Qrofeus/sorting-algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=path-finding-algorithms&show_owner=true)](https://github.com/Qrofeus/path-finding-algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=near-zero&show_owner=true)](https://github.com/Qrofeus/near-zero)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qrofeus&repo=enigma-machine&show_owner=true)](https://github.com/Qrofeus/Enigma-Machine)
 
 ## Connect With Me
