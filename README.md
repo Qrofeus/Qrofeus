@@ -15,7 +15,7 @@ If you're hiring or know someone who is, [let's talk](mailto:ninad.deshpande46@g
   <a href="mailto:ninad.deshpande46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 🔧 What I Work With
+### What I Work With
 
 **Languages**
 <p align="left">
@@ -61,49 +61,41 @@ If you're hiring or know someone who is, [let's talk](mailto:ninad.deshpande46@g
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
+### What I've Actually Built
 
-### 🧪 What I've Actually Built
-
-**📰 [Daily News Digest](https://github.com/Qrofeus/news-summarizer)**
+** [Daily News Digest](https://github.com/Qrofeus/news-summarizer)**
 Automated ETL pipeline scraping BBC, Guardian, and World News API, summarizing
 with **Gemini 2.5 Flash Lite**, and emailing a daily HTML digest. Runs on
 **GitHub Actions** at 6 AM UTC. Includes keyword-scoring fallback for LLM
 outages, robots.txt compliance, request throttling, and a full pytest suite.
 
-**🤖 LLM Benchmarking for Multilingual Cyberbullying Detection**
+** LLM Benchmarking for Multilingual Cyberbullying Detection**
 Graduate research at IU Indianapolis. Compared GPT-4o, Gemini variants, Llama,
 DeepSeek, and Qwen against classical ML baselines (BERT, CNN, LogReg, RF) on
 **140K multilingual samples**. F1 scores **0.74–0.90**. Built a distributed
 peer-to-peer consensus architecture for **4x speedup** on parallel inference.
 Repo cleanup in progress, happy to walk through the work.
 
-**🌐 [qrofeus.dev](https://qrofeus.dev) — Portfolio & Lab**
+** [qrofeus.dev](https://qrofeus.dev) — Portfolio & Lab**
 Built and maintained with GitHub Actions CI/CD, and custom
 skills for design tokens and theme handling. Source is private, the live
 site is the demo.
 
-**🍳 RecipeExtract** *(in progress)*
+** RecipeExtract** *(in progress)*
 Node.js + Express service pulling structured recipes from messy web pages
 using the OpenAI API. Real schema validation, real edge cases.
 
-**📄 Published Paper**
+** Published Paper**
 Published work on CRM and RESTful API architecture. [Read here](https://ijarsct.co.in/A7119.pdf)
 
----
-
-### 🛠️ Currently
+### Currently
 
 - Volunteering as SWE at **Translation Commons** (open-source localization tooling)
 - Iterating on **Claude Code skills** for documentation, design systems, and writing workflows
 - Reading more papers than I have time to implement (the eternal struggle)
 
----
+[//]: # ### Contribution Snake
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Qrofeus/Qrofeus/output/github-contribution-grid-snake-dark.svg)
-
----
+[//]: # ![Snake animation](https://raw.githubusercontent.com/Qrofeus/Qrofeus/output/github-contribution-grid-snake-dark.svg)
 
 *US-based (Sacramento, CA). Open to remote and relocation.*
