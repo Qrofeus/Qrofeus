@@ -15,21 +15,6 @@ If you're hiring or know someone who is, [let's talk](mailto:ninad.deshpande46@g
   <a href="mailto:ninad.deshpande46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-### 📊 The Numbers
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qrofeus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qrofeus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Qrofeus&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🔧 What I Work With
 
 **Languages**
