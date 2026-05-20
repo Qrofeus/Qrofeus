@@ -10,9 +10,10 @@ Commons](https://translationcommons.org/) while hunting for full-time roles in
 If you're hiring or know someone who is, [let's talk](mailto:ninad.deshpande46@gmail.com).
 
 <p align="left">
-  <a href="https://qrofeus.dev"><img src="https://img.shields.io/badge/Portfolio-qrofeus.dev-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/qrofeus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ninad.deshpande46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="https://qrofeus.dev"><img src="https://img.shields.io/badge/Portfolio-qrofeus.dev-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://qrofeus.dev/writing"><img src="https://img.shields.io/badge/Writing-Essays-FF6B35?style=flat-square&logo=hashnode&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/qrofeus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:ninad.deshpande46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ### What I Work With
@@ -65,23 +66,42 @@ If you're hiring or know someone who is, [let's talk](mailto:ninad.deshpande46@g
 
 **[Daily News Digest](https://github.com/Qrofeus/news-summarizer)**
 
-> Automated ETL pipeline scraping BBC, Guardian, and World News API, summarizing with **Gemini 2.5 Flash Lite**, and emailing a daily HTML digest. Runs on **GitHub Actions** at 6 AM UTC. Includes keyword-scoring fallback for LLM outages, robots.txt compliance, request throttling, and a full pytest suite.
+> Automated ETL pipeline scraping BBC, Guardian, and World News API, summarizing with **Gemini 2.5 Flash Lite**, and
+> emailing a daily HTML digest. Runs on **GitHub Actions** at 6 AM UTC. Includes keyword-scoring fallback for LLM
+> outages,
+> robots.txt compliance, request throttling, and a full pytest suite.
 
 **LLM Benchmarking for Multilingual Cyberbullying Detection**
 
-> Graduate research at IU Indianapolis. Compared GPT-4o, Gemini variants, Llama, DeepSeek, and Qwen against classical ML baselines (BERT, CNN, LogReg, RF) on **140K multilingual samples**. F1 scores **0.74–0.90**. Built a distributed peer-to-peer consensus architecture for **4x speedup** on parallel inference. Repo cleanup in progress, happy to walk through the work.
+> Graduate research at IU Indianapolis. Compared GPT-4o, Gemini variants, Llama, DeepSeek, and Qwen against classical ML
+> baselines (BERT, CNN, LogReg, RF) on **140K multilingual samples**. F1 scores **0.74–0.90**. Built a distributed
+> peer-to-peer consensus architecture for **4x speedup** on parallel inference. Repo cleanup in progress, happy to walk
+> through the work.
 
-**[qrofeus.dev](https://qrofeus.dev) — Portfolio & Lab**
+**[qrofeus.dev](https://qrofeus.dev) - Portfolio**
 
-> Built and maintained with GitHub Actions CI/CD, and custom skills for design tokens and theme handling. Source is private, the live site is the demo.
+> Built and maintained with GitHub Actions CI/CD, and custom skills for design tokens and theme handling. Source is
+> private, the live site is the demo.
 
 **RecipeExtract** *(in progress)*
 
-> Node.js + Express service pulling structured recipes from messy web pages using the OpenAI API. Real schema validation, real edge cases.
+> Node.js + Express service pulling structured recipes from messy web pages using the OpenAI API. Real schema
+> validation, real edge cases.
 
 **Published Paper**
 
 > Published work on CRM and RESTful API architecture. [Read here](https://ijarsct.co.in/A7119.pdf)
+
+### Writing
+
+I write often about ML/AI, mostly on LLM behavior and the gap between hype and
+what these systems actually do. A few I'd start with:
+
+- [Expert Prompts Make AI Dumber](https://qrofeus.dev/writing/expert-prompts-make-ai-dumber/)
+- [We've Seen Prompt Injection Before](https://qrofeus.dev/writing/prompt-injection/)
+- [The Chain of Thought Rabbit Hole](https://qrofeus.dev/writing/chain-of-thought/)
+
+[Read everything →](https://qrofeus.dev/writing)
 
 ### Currently
 
